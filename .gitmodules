@@ -1,0 +1,3 @@
+[submodule "TableCloth"]
+	path = TableCloth
+	url = https://github.com/yourtablecloth/TableCloth.git
